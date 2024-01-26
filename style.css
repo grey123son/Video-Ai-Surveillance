@@ -1,0 +1,29 @@
+#start, #number_of_objects, #status{
+    font-size: 18px;
+}
+.heading{
+    font-size: 23px;
+    width:50%;
+    margin:0;
+    background: linear-gradient(#FF8C00 0%, 	Orange 25%, #FFD700 50%, #66CDAA 75%, #4682B4 100%);
+    border-radius: 10px;
+}
+.copyright_footer{
+    position: fixed;
+    border-width: 10px;
+    border-color: darkgrey;
+    bottom: 0;
+    width: 100%;
+    background-color:darkorange;
+    line-height: 3;
+    text-align: center;
+}
+#start:hover{
+    background-color: goldenrod;
+    color:grey;
+}
+#start{
+    background: orange;
+    width:200px;
+    border-radius: 20px;
+}
